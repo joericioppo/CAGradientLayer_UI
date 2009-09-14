@@ -19,7 +19,6 @@
 		5201613D105AF7030000D2BE /* AIShadowGradient.m in Sources */ = {isa = PBXBuildFile; fileRef = 5201613C105AF7030000D2BE /* AIShadowGradient.m */; };
 		5203BB25105C6A94009DC91F /* AICellGradient.m in Sources */ = {isa = PBXBuildFile; fileRef = 5203BB24105C6A94009DC91F /* AICellGradient.m */; };
 		5203BC2A105D7D27009DC91F /* AITableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5203BC29105D7D27009DC91F /* AITableViewCell.m */; };
-		5203BD67105D898D009DC91F /* ABTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5203BD66105D898D009DC91F /* ABTableViewCell.m */; };
 		522DAD0A1056DEAB0073F214 /* AINavigationBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 522DAD091056DEAB0073F214 /* AINavigationBar.m */; };
 		522DAD0D1056DEF20073F214 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 522DAD0C1056DEF20073F214 /* QuartzCore.framework */; };
 		522DADA81056E9400073F214 /* AIBarGradient.m in Sources */ = {isa = PBXBuildFile; fileRef = 522DADA71056E9400073F214 /* AIBarGradient.m */; };
@@ -28,9 +27,7 @@
 		522DAE3810570A890073F214 /* AIShineGloss.m in Sources */ = {isa = PBXBuildFile; fileRef = 522DAE3710570A890073F214 /* AIShineGloss.m */; };
 		528C9702105856D700F3308A /* AIBarGradientMatte.m in Sources */ = {isa = PBXBuildFile; fileRef = 528C9701105856D700F3308A /* AIBarGradientMatte.m */; };
 		528C973B10585FB200F3308A /* AIBackgroundGradient.m in Sources */ = {isa = PBXBuildFile; fileRef = 528C973A10585FB200F3308A /* AIBackgroundGradient.m */; };
-		52F12AA7105E389C005A9DB1 /* cell-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 52F12AA6105E389C005A9DB1 /* cell-icon.png */; };
-		52F12AAF105E395B005A9DB1 /* cell-icon_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 52F12AAE105E395B005A9DB1 /* cell-icon_01.png */; };
-		52F12AB5105E39E9005A9DB1 /* cell-icon_02.png in Resources */ = {isa = PBXBuildFile; fileRef = 52F12AB4105E39E9005A9DB1 /* cell-icon_02.png */; };
+		52F12AB5105E39E9005A9DB1 /* cell-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 52F12AB4105E39E9005A9DB1 /* cell-icon.png */; };
 		52F12B61105EB0EA005A9DB1 /* AICellGradientAlt.m in Sources */ = {isa = PBXBuildFile; fileRef = 52F12B60105EB0EA005A9DB1 /* AICellGradientAlt.m */; };
 /* End PBXBuildFile section */
 
@@ -55,8 +52,6 @@
 		5203BB24105C6A94009DC91F /* AICellGradient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AICellGradient.m; sourceTree = "<group>"; };
 		5203BC28105D7D27009DC91F /* AITableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AITableViewCell.h; sourceTree = "<group>"; };
 		5203BC29105D7D27009DC91F /* AITableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AITableViewCell.m; sourceTree = "<group>"; };
-		5203BD65105D898D009DC91F /* ABTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ABTableViewCell.h; sourceTree = "<group>"; };
-		5203BD66105D898D009DC91F /* ABTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ABTableViewCell.m; sourceTree = "<group>"; };
 		522DAD081056DEAB0073F214 /* AINavigationBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AINavigationBar.h; sourceTree = "<group>"; };
 		522DAD091056DEAB0073F214 /* AINavigationBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AINavigationBar.m; sourceTree = "<group>"; };
 		522DAD0C1056DEF20073F214 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = /System/Library/Frameworks/QuartzCore.framework; sourceTree = "<absolute>"; };
@@ -72,9 +67,7 @@
 		528C9701105856D700F3308A /* AIBarGradientMatte.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIBarGradientMatte.m; sourceTree = "<group>"; };
 		528C973910585FB200F3308A /* AIBackgroundGradient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIBackgroundGradient.h; sourceTree = "<group>"; };
 		528C973A10585FB200F3308A /* AIBackgroundGradient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIBackgroundGradient.m; sourceTree = "<group>"; };
-		52F12AA6105E389C005A9DB1 /* cell-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cell-icon.png"; sourceTree = "<group>"; };
-		52F12AAE105E395B005A9DB1 /* cell-icon_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cell-icon_01.png"; sourceTree = "<group>"; };
-		52F12AB4105E39E9005A9DB1 /* cell-icon_02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cell-icon_02.png"; sourceTree = "<group>"; };
+		52F12AB4105E39E9005A9DB1 /* cell-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cell-icon.png"; sourceTree = "<group>"; };
 		52F12B5F105EB0EA005A9DB1 /* AICellGradientAlt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AICellGradientAlt.h; sourceTree = "<group>"; };
 		52F12B60105EB0EA005A9DB1 /* AICellGradientAlt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AICellGradientAlt.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Gradients-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Gradients-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
@@ -128,8 +121,6 @@
 		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
-				5203BD65105D898D009DC91F /* ABTableViewCell.h */,
-				5203BD66105D898D009DC91F /* ABTableViewCell.m */,
 				32CA4F630368D1EE00C91783 /* Gradients_Prefix.pch */,
 				29B97316FDCFA39411CA2CEA /* main.m */,
 			);
@@ -139,9 +130,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				52F12AA6105E389C005A9DB1 /* cell-icon.png */,
-				52F12AAE105E395B005A9DB1 /* cell-icon_01.png */,
-				52F12AB4105E39E9005A9DB1 /* cell-icon_02.png */,
+				52F12AB4105E39E9005A9DB1 /* cell-icon.png */,
 				2899E5210DE3E06400AC0155 /* GradientsViewController.xib */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* Gradients-Info.plist */,
@@ -253,9 +242,7 @@
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				2899E5220DE3E06400AC0155 /* GradientsViewController.xib in Resources */,
-				52F12AA7105E389C005A9DB1 /* cell-icon.png in Resources */,
-				52F12AAF105E395B005A9DB1 /* cell-icon_01.png in Resources */,
-				52F12AB5105E39E9005A9DB1 /* cell-icon_02.png in Resources */,
+				52F12AB5105E39E9005A9DB1 /* cell-icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,7 +267,6 @@
 				5201613D105AF7030000D2BE /* AIShadowGradient.m in Sources */,
 				5203BB25105C6A94009DC91F /* AICellGradient.m in Sources */,
 				5203BC2A105D7D27009DC91F /* AITableViewCell.m in Sources */,
-				5203BD67105D898D009DC91F /* ABTableViewCell.m in Sources */,
 				52F12B61105EB0EA005A9DB1 /* AICellGradientAlt.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

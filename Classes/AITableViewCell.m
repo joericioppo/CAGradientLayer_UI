@@ -31,7 +31,7 @@
 				
 				self.textLabel.shadowOffset = CGSizeMake(0.0, 1.0);
 				
-				self.imageView.image = [UIImage imageNamed:@"cell-icon_02.png"];
+				self.imageView.image = [UIImage imageNamed:@"cell-icon.png"];
 		}
 		
 		return self;
