@@ -21,10 +21,10 @@
 		5203BC2A105D7D27009DC91F /* AITableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 5203BC29105D7D27009DC91F /* AITableViewCell.m */; };
 		522DAD0A1056DEAB0073F214 /* AINavigationBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 522DAD091056DEAB0073F214 /* AINavigationBar.m */; };
 		522DAD0D1056DEF20073F214 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 522DAD0C1056DEF20073F214 /* QuartzCore.framework */; };
-		522DADA81056E9400073F214 /* AIBarGradient.m in Sources */ = {isa = PBXBuildFile; fileRef = 522DADA71056E9400073F214 /* AIBarGradient.m */; };
 		522DADD81056FB590073F214 /* AIToolBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 522DADD71056FB590073F214 /* AIToolBar.m */; };
 		522DAE33105709670073F214 /* AIButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 522DAE32105709670073F214 /* AIButton.m */; };
-		522DAE3810570A890073F214 /* AIShineGloss.m in Sources */ = {isa = PBXBuildFile; fileRef = 522DAE3710570A890073F214 /* AIShineGloss.m */; };
+		526F20EA1060479C00F4DCC5 /* AIBarGradient.m in Sources */ = {isa = PBXBuildFile; fileRef = 526F20E71060479C00F4DCC5 /* AIBarGradient.m */; };
+		526F20EB1060479C00F4DCC5 /* AIShineGloss.m in Sources */ = {isa = PBXBuildFile; fileRef = 526F20E91060479C00F4DCC5 /* AIShineGloss.m */; };
 		528C9702105856D700F3308A /* AIBarGradientMatte.m in Sources */ = {isa = PBXBuildFile; fileRef = 528C9701105856D700F3308A /* AIBarGradientMatte.m */; };
 		528C973B10585FB200F3308A /* AIBackgroundGradient.m in Sources */ = {isa = PBXBuildFile; fileRef = 528C973A10585FB200F3308A /* AIBackgroundGradient.m */; };
 		52F12AB5105E39E9005A9DB1 /* cell-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 52F12AB4105E39E9005A9DB1 /* cell-icon.png */; };
@@ -55,14 +55,14 @@
 		522DAD081056DEAB0073F214 /* AINavigationBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AINavigationBar.h; sourceTree = "<group>"; };
 		522DAD091056DEAB0073F214 /* AINavigationBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AINavigationBar.m; sourceTree = "<group>"; };
 		522DAD0C1056DEF20073F214 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = /System/Library/Frameworks/QuartzCore.framework; sourceTree = "<absolute>"; };
-		522DADA61056E9400073F214 /* AIBarGradient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AIBarGradient.h; path = ../AIBarGradient.h; sourceTree = "<group>"; };
-		522DADA71056E9400073F214 /* AIBarGradient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AIBarGradient.m; path = ../AIBarGradient.m; sourceTree = "<group>"; };
 		522DADD61056FB590073F214 /* AIToolBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIToolBar.h; sourceTree = "<group>"; };
 		522DADD71056FB590073F214 /* AIToolBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIToolBar.m; sourceTree = "<group>"; };
 		522DAE31105709670073F214 /* AIButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIButton.h; sourceTree = "<group>"; };
 		522DAE32105709670073F214 /* AIButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIButton.m; sourceTree = "<group>"; };
-		522DAE3610570A890073F214 /* AIShineGloss.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AIShineGloss.h; path = ../AIShineGloss.h; sourceTree = "<group>"; };
-		522DAE3710570A890073F214 /* AIShineGloss.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AIShineGloss.m; path = ../AIShineGloss.m; sourceTree = "<group>"; };
+		526F20E61060479C00F4DCC5 /* AIBarGradient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIBarGradient.h; sourceTree = "<group>"; };
+		526F20E71060479C00F4DCC5 /* AIBarGradient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIBarGradient.m; sourceTree = "<group>"; };
+		526F20E81060479C00F4DCC5 /* AIShineGloss.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIShineGloss.h; sourceTree = "<group>"; };
+		526F20E91060479C00F4DCC5 /* AIShineGloss.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIShineGloss.m; sourceTree = "<group>"; };
 		528C9700105856D700F3308A /* AIBarGradientMatte.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIBarGradientMatte.h; sourceTree = "<group>"; };
 		528C9701105856D700F3308A /* AIBarGradientMatte.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIBarGradientMatte.m; sourceTree = "<group>"; };
 		528C973910585FB200F3308A /* AIBackgroundGradient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIBackgroundGradient.h; sourceTree = "<group>"; };
@@ -178,10 +178,8 @@
 		522DAE3B10570ABB0073F214 /* Layers */ = {
 			isa = PBXGroup;
 			children = (
-				522DADA61056E9400073F214 /* AIBarGradient.h */,
-				522DADA71056E9400073F214 /* AIBarGradient.m */,
-				522DAE3610570A890073F214 /* AIShineGloss.h */,
-				522DAE3710570A890073F214 /* AIShineGloss.m */,
+				526F20E61060479C00F4DCC5 /* AIBarGradient.h */,
+				526F20E71060479C00F4DCC5 /* AIBarGradient.m */,
 				528C9700105856D700F3308A /* AIBarGradientMatte.h */,
 				528C9701105856D700F3308A /* AIBarGradientMatte.m */,
 				52016077105AEA7E0000D2BE /* AIBarGradientMatteBottom.h */,
@@ -190,6 +188,8 @@
 				528C973A10585FB200F3308A /* AIBackgroundGradient.m */,
 				5201613B105AF7030000D2BE /* AIShadowGradient.h */,
 				5201613C105AF7030000D2BE /* AIShadowGradient.m */,
+				526F20E81060479C00F4DCC5 /* AIShineGloss.h */,
+				526F20E91060479C00F4DCC5 /* AIShineGloss.m */,
 				5203BB23105C6A94009DC91F /* AICellGradient.h */,
 				5203BB24105C6A94009DC91F /* AICellGradient.m */,
 				52F12B5F105EB0EA005A9DB1 /* AICellGradientAlt.h */,
@@ -257,10 +257,8 @@
 				1D3623260D0F684500981E51 /* GradientsAppDelegate.m in Sources */,
 				28D7ACF80DDB3853001CB0EB /* GradientsViewController.m in Sources */,
 				522DAD0A1056DEAB0073F214 /* AINavigationBar.m in Sources */,
-				522DADA81056E9400073F214 /* AIBarGradient.m in Sources */,
 				522DADD81056FB590073F214 /* AIToolBar.m in Sources */,
 				522DAE33105709670073F214 /* AIButton.m in Sources */,
-				522DAE3810570A890073F214 /* AIShineGloss.m in Sources */,
 				528C9702105856D700F3308A /* AIBarGradientMatte.m in Sources */,
 				528C973B10585FB200F3308A /* AIBackgroundGradient.m in Sources */,
 				52016079105AEA7E0000D2BE /* AIBarGradientMatteBottom.m in Sources */,
@@ -268,6 +266,8 @@
 				5203BB25105C6A94009DC91F /* AICellGradient.m in Sources */,
 				5203BC2A105D7D27009DC91F /* AITableViewCell.m in Sources */,
 				52F12B61105EB0EA005A9DB1 /* AICellGradientAlt.m in Sources */,
+				526F20EA1060479C00F4DCC5 /* AIBarGradient.m in Sources */,
+				526F20EB1060479C00F4DCC5 /* AIShineGloss.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
